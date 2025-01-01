@@ -1,21 +1,41 @@
 prompt,truth_label
-I'm stuck on this project and need some fresh ideas. Can you help me brainstorm?,help me brainstorm
-"I'm drawing a blank. Help me brainstorm some project ideas, please!",help me brainstorm
-I need to brainstorm some research paper topics. Can you help me?,help me brainstorm
-Help me brainstorm some creative solutions for this problem.,help me brainstorm
-I'm overwhelmed with this assignment. Can you help me brainstorm a plan?,help me brainstorm
-Brainstorm with me! I need ideas for a class presentation.,help me brainstorm
-Help me brainstorm some ways to improve my study habits.,help me brainstorm
-I need to brainstorm some fundraising ideas for our club. Any suggestions?,help me brainstorm
-Can you help me brainstorm some potential career paths?,help me brainstorm
-I'm stuck on this coding problem. Help me brainstorm some solutions.,help me brainstorm
-Can you summarize this report for me? I don't have time to read the whole thing.,summarize this report for me
-I need a quick summary of this report. Can you help?,summarize this report for me
-"Summarize this research paper for me, please. I need the key takeaways.",summarize this report for me
-I'm overwhelmed by this long report. Can you summarize it for me?,summarize this report for me
-Can you give me a summary of this financial report?,summarize this report for me
-"Summarize the main points of this article for me, please.",summarize this report for me
-I need a summary of this book chapter. Can you do that for me?,summarize this report for me
-Can you summarize this lab report for me? I need to understand the results.,summarize this report for me
-"I don't have time to read this whole report. Can you summarize it for me, please?",summarize this report for me
-"Summarize this case study for me, highlighting the important details.",summarize this report for me
+I'm stuck on this project. I need to come up with creative ideas for a marketing campaign targeting college students. Can you help me brainstorm?,help me brainstorm
+I'm drawing a blank. Can you help me brainstorm some fun activities for a campus-wide event?,help me brainstorm
+I need help brainstorming a list of persuasive arguments for my debate about the ethics of artificial intelligence.,help me brainstorm
+Can you help me brainstorm some unique fundraising ideas for our student club?,help me brainstorm
+I'm struggling to come up with a catchy title for my research paper. Help me brainstorm!,help me brainstorm
+Help me brainstorm potential solutions to address the issue of food waste on campus.,help me brainstorm
+I need to brainstorm some innovative ways to improve student engagement in online classes. Any ideas?,help me brainstorm
+Can you help me brainstorm some interesting topics for my history presentation?,help me brainstorm
+"I'm writing a short story, but I'm stuck on the plot. Can you help me brainstorm some ideas?",help me brainstorm
+Help me brainstorm some strategies to manage my time more effectively as a college student.,help me brainstorm
+Can you summarize this report on the impact of social media on mental health?,summarize this report for me
+I have a lengthy research paper on climate change. Can you summarize the key findings for me?,summarize this report for me
+I need a summary of this article discussing the economic implications of Brexit.,summarize this report for me
+Summarize this report on the effectiveness of online learning platforms.,summarize this report for me
+Can you provide a summary of this book chapter on the history of the French Revolution?,summarize this report for me
+I need you to summarize the main points of this scientific study on the benefits of meditation.,summarize this report for me
+Summarize this news article about the latest developments in artificial intelligence.,summarize this report for me
+Can you summarize this case study on the marketing strategies of successful startups?,summarize this report for me
+I need a concise summary of this financial report for my business class.,summarize this report for me
+Please summarize this policy document on the government's approach to education reform.,summarize this report for me
+Explain how to solve this quadratic equation step by step.,explain how to solve with steps
+Can you explain the steps involved in writing a compelling research paper?,explain how to solve with steps
+I need a step-by-step explanation of how to perform CPR.,explain how to solve with steps
+Explain how to create a website from scratch with steps.,explain how to solve with steps
+I'm struggling with this coding problem. Can you explain how to solve it step by step?,explain how to solve with steps
+Explain the steps involved in applying for a scholarship.,explain how to solve with steps
+Can you explain how to cook a perfect steak step by step?,explain how to solve with steps
+I need a step-by-step explanation of how to change a tire.,explain how to solve with steps
+Explain how to format a research paper according to APA style with steps.,explain how to solve with steps
+Can you explain how to solve this physics problem step by step?,explain how to solve with steps
+Check if this essay was AI generated.,check if this was AI generated
+I'm suspicious about this article. Can you check if it was AI generated?,check if this was AI generated
+Is this poem AI generated? Can you check?,check if this was AI generated
+Check if this code was generated by an AI.,check if this was AI generated
+I need to know if this research paper is AI-generated. Can you check?,check if this was AI generated
+Can you check if this news report was AI generated?,check if this was AI generated
+Is this short story AI generated? Please check.,check if this was AI generated
+I doubt the authenticity of this blog post. Check if it was AI generated.,check if this was AI generated
+Check if this product description was written by AI.,check if this was AI generated
+Can you check if this script was AI generated?,check if this was AI generated
